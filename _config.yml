@@ -22,5 +22,3 @@ description: "Template for a wedding website."
 # Build settings
 markdown: kramdown
 permalink: pretty
-
-include: ['_en_pages', '_fr_pages']
