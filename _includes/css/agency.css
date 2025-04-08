@@ -357,7 +357,7 @@ header {
     text-align: center;
     color: #7c6c68;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/backgrounds/header.jpeg'); 
+    background-image: url('{{ site.baseurl }}/img/backgrounds/header.jpg'); 
     background-position: center center;
     /*background-position: top center;*/
     background-repeat: none;
