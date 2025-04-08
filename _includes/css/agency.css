@@ -355,9 +355,9 @@ fieldset[disabled] .btn-m.active {
 
 header {
     text-align: center;
-    color: #fff;
+    color: #7c6c68;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/backgrounds/header.gif'); 
+    background-image: url('{{ site.baseurl }}/img/backgrounds/header.jpeg'); 
     background-position: center center;
     /*background-position: top center;*/
     background-repeat: none;
