@@ -76,11 +76,11 @@ h6 {
 }
 
 .bg-light-gray {
-    background-color: #f7f7f7;
+    background-color: #ffdcd4;
 }
 
 .bg-darkest-gray {
-    background-color: #222;
+    background-color: #ffdcd4;
 }
 
 .btn-primary {
@@ -129,7 +129,7 @@ fieldset[disabled] .btn-primary.active {
 
 .btn-primary .badge {
     color: #{{ site.data.template.color.primary }};
-    background-color: #fff;
+    background-color: #7c6c68;
 }
 
 .btn-xl {
@@ -140,7 +140,7 @@ fieldset[disabled] .btn-primary.active {
     font-family: {{ site.data.template.font.primary }};
     font-size: 18px;
     font-weight: 700;
-    color: #fff;
+    color: #7c6c68;
     background-color: #{{ site.data.template.color.primary }};
 }
 
@@ -150,7 +150,7 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
     border-color: #{{ site.data.template.color.primary }};
-    color: #fff;
+    color: #7c6c68;
     background-color: #{{ site.data.template.color.secondary }};
 }
 
