@@ -239,9 +239,8 @@ fieldset[disabled] .btn-m.active {
 }
 
 .navbar-default .navbar-brand {
-    /*font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;*/
-    font-family: "stay_classy_sldtregular","Helvetica Neue",Helvetica,Arial,cursive;
-    color: #{{ site.data.template.color.primary }};
+    font-family: "Roboto","Helvetica Neue",Helvetica,Arial,cursive;
+    color: #b8b5b5;
 }
 
 .navbar-default .navbar-brand:hover,
@@ -256,8 +255,8 @@ fieldset[disabled] .btn-m.active {
 }
 
 .navbar-default .navbar-toggle {
-    border-color: #{{ site.data.template.color.primary }};
-    background-color: #{{ site.data.template.color.primary }};
+    border-color: #b8b5b5;
+    background-color: #b8b5b5;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
