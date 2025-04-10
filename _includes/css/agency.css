@@ -248,7 +248,7 @@ fieldset[disabled] .btn-m.active {
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-    color: #{{ site.data.template.color.secondary }};
+    color: #b8b5b5;
 }
 
 .navbar-default .navbar-collapse {
@@ -296,12 +296,12 @@ fieldset[disabled] .btn-m.active {
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
     color: #fff;
-    background-color: #{{ site.data.template.color.secondary }};
+    background-color: #b8b5b5;
 }
 
 .brand {
     /*font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;*/
-    font-family: "stay_classy_sldtregular","Helvetica Neue",Helvetica,Arial,cursive;
+    font-family: Roboto,"Helvetica Neue",Helvetica,Arial,cursive;
     color: #{{ site.data.template.color.primary }};
     font-size: 2.5em;
 }
@@ -988,12 +988,15 @@ body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
 
-.column-left {
+.column {
   float: left;
+  padding: 10px;
+}
+
+.left {
   width: 75%;
 }
 
-.column-right {
-  float: left;
+.right {
   width: 25%;
 }
