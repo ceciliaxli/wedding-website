@@ -422,7 +422,7 @@ header .intro-text .intro-heading {
         margin-bottom: 25px;
         /*font-family: {{ site.data.template.font.secondary }};*/
         /*font-family: {{ site.data.template.font.primary }};*/
-        font-family: 'Lato';
+        font-family: 'Roboto';
         font-weight: 300;
         font-size: 40px;
         /*font-style: italic;*/
@@ -433,7 +433,7 @@ header .intro-text .intro-heading {
         margin-bottom: 100px;
         /*text-transform: uppercase;*/
         /*font-family: {{ site.data.template.font.primary }};*/
-        font-family: 'stay_classy_sldtregular';
+        font-family: 'Roboto';
         text-shadow: 2px 2px 4px #000000;
         font-size: 75px;
         /*font-weight: 700;*/
@@ -456,6 +456,7 @@ section h3.section-subheading {
     text-transform: none;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 20px;
+    font-weight: 300;
 }
 
 @media(min-width:768px) {
