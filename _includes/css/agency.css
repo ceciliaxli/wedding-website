@@ -266,7 +266,7 @@ fieldset[disabled] .btn-m.active {
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-    background-color: #{{ site.data.template.color.primary }};
+    background-color: #b8b5b5;
 }
 
 .navbar-default .nav li a {
