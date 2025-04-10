@@ -2,8 +2,8 @@
 color:
   primary: ffdcd4
   secondary: ffdcd4  
-  secondary-dark: 7c6c68
-  muted: cac4c2
+  secondary-dark: 444444
+  muted: 828282
 
 # Fonf families
 font:
